@@ -91,6 +91,7 @@ public class EsempioCicli {
             }
         }
         System.out.println("The Min number is: " + minNumber);
+        System.out.println("Goodbye Jojo!");
 
         System.out.println("-----------------------------------------------------");
         // Average Value
